@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'Aniverse Plus',
   shortName: 'Aniverse',
-  description: 'AniVerse+ adalah The Next Generations Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hinggal 4K.',
+  description: 'AniVerse+ adalah The Next Generations Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hingga 4K.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
