@@ -2,13 +2,13 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Aniverse Plus',
+  shortName: 'Aniverse',
+  description: 'AniVerse+ adalah The Next Generations Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hinggal 4K.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
-  themeColor: '#fff',
+  themeColor: '#00ced1',
   display: 'standalone',
   orientation: 'natural',
   scope: '/',
@@ -17,16 +17,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Streaming For Free',
+      shortName: 'Streaming',
+      description: 'Kamu bisa Streaming Anime Apapun secara Gratis Tanpa Iklan Pop Up',
+      url: '/search/label/Series?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Komunitas',
+      shortName: 'Chat',
+      description: 'Kamu bisa berkomunisasi dengan Member Aniverse Lainnya..',
+      url: '/p/chat.html?utm_source=homescreen',
     },
   ],
   pwa: {
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.aniverse.vip',
 } satisfies Config;
