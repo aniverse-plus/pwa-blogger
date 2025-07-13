@@ -30,7 +30,7 @@ export default {
     },
   ],
   pwa: {
-    logs: true,
+    logs: false,
     // OneSignal is not available if you are not using cloudflare workers
     oneSignalEnabled: true,
     oneSignalConfig: {
