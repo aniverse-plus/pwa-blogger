@@ -7,7 +7,7 @@ export default {
   description: 'AniVerse+ adalah The Next Generations Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hingga 4K.',
   direction: 'auto',
   language: 'en-US',
-  backgroundColor: '#fff',
+  backgroundColor: '#010003',
   themeColor: '#00ced1',
   display: 'standalone',
   orientation: 'natural',
