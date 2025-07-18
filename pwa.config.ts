@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'Animesia Plus',
   shortName: 'Animesia',
-  description: 'Animesia Plus adalah The Next Generations Streaming Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hingga 4K.',
+  description: 'Animesia Plus adalah The Next Generations Streaming Anime Platform yang dimana Kalian dapat Streaming Nonton Anime Secara Gratis Dari Kualitas SD Hingga 4K Tanpa Iklan Pop Up Yang Menggangu.',
   direction: 'auto',
   language: 'id-ID',
   backgroundColor: '#010003',
