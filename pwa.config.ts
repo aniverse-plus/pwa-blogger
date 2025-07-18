@@ -2,11 +2,11 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'Aniverse Plus',
-  shortName: 'Aniverse',
-  description: 'AniVerse+ adalah The Next Generations Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hingga 4K.',
+  name: 'Animesia Plus',
+  shortName: 'Animesia',
+  description: 'Animesia Plus adalah The Next Generations Streaming Anime Platform yang dimana Kalian dapat Streaming Anime Secara Gratis Dari Kualitas SD Hingga 4K.',
   direction: 'auto',
-  language: 'en-US',
+  language: 'id-ID',
   backgroundColor: '#010003',
   themeColor: '#00ced1',
   display: 'standalone',
